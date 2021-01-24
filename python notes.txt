@@ -1,0 +1,18 @@
+sublime - script writer
+python - language
+gif -  commands
+
+data types:
+strings  name = "David"
+numbers  age = 41
+
+list
+
+tuples
+
+Dictionaries  key / value pairs
+		fav_pizza = {"john": "pepperoni", "bob": "mushroom"
+		john is the key and pepperoni is the value
+	
+
+Boolean -- true/false
